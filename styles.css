@@ -1,0 +1,40 @@
+.container {
+  width: 60%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: #2B3A55;
+}
+
+h1 {
+  margin: 15px;
+  font-family: 'Josefin Sans', sans-serif;
+  text-shadow: 5px 0 #181D31;
+  font-size: 5rem;
+  color: #181D31;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+
+}
